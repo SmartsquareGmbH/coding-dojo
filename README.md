@@ -1,4 +1,4 @@
-# Monetary 💰Kata :moneybag:💰💰💰
+# Monetary Kata :moneybag:
 In diesem Kata wollen wir anhand eines Beispiels überlegen, welches der beste Datentyp für Geldwerte darstellt.
 
 ## Loss of Significance
